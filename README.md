@@ -72,7 +72,7 @@
 
 Project Demo       |Libraries and Technologies I use  |Project Preview   
 :-------------------------|---------------------|------------------
-[React - Bootstrap](https://react-project-movie-app-bootstrap.netlify.app/) <h3>[Movie-App](https://react-project-movie-app-bootstrap.netlify.app/)</h3> | React - Bootstrap - Router - Firebase - Pagination |![react-Movie-App-bootstrap-1](https://user-images.githubusercontent.com/118976850/226054543-e6270551-7245-45f7-aad4-cc8398d8a9c3.gif)
+[React - Bootstrap](https://react-project-movie-app-bootstrap.netlify.app/) <h3>[Movie-App](https://react-project-movie-app-bootstrap.netlify.app/)</h3> | React - Bootstrap - Router - Firebase - Pagination |(https://user-images.githubusercontent.com/118976850/226054543-e6270551-7245-45f7-aad4-cc8398d8a9c3.gif)
 
 [React - StyleComponent](https://classy-maamoul-be6003.netlify.app/) <h3>[Repo](https://classy-maamoul-be6003.netlify.app/)</h3> | React - StyleComponent |
 [React - State-Hook](https://snazzy-sherbet-4cddea.netlify.app/) <h3>[Repo](https://snazzy-sherbet-4cddea.netlify.app/)</h3> | React - State-Hook |<img src="https://media.giphy.com/media/4K3nVCNakT4xdZdbi9/giphy.gif" align="right" width="500">
