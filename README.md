@@ -20,6 +20,11 @@
 </br>
 </br>
 
+<h2 align="center">🚀Technical Skills</h2>
+<div align="center">
+
+
+
 
 <p align="center">
 
@@ -79,8 +84,9 @@
     ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
     
 </p>
+    </div>
 
-</div>
+
 </br>
 <!--<div  align="center"> <img src="https://raw.githubusercontent.com/scriptex/github-contributions-snake/snake/github-contribution-grid-snake.svg" /></div>-->
 <h2 align="center">My Projects</h2>
