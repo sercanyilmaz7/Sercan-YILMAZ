@@ -73,12 +73,12 @@
 Project Demo       |Libraries and Technologies I use  |Project Preview   
 :-------------------------|---------------------|------------------
 [React - Bootstrap](https://react-project-movie-app-bootstrap.netlify.app/) <h3>[Repo](https://react-project-movie-app-bootstrap.netlify.app/)</h3> | React - Bootstrap - Router - Firebase - Context - Pagination |<img src="https://media.giphy.com/media/n1P8giTvphrEyY1qOI/giphy.gif" align="right" width="500">
-
+[React - Tailwind](https://classy-maamoul-be6003.netlify.app/) <h3>[Repo](https://classy-maamoul-be6003.netlify.app/)</h3> | React - Tailwind - FireBase - DarkTheme - Router - Context - Pagination |<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzM3OWIwZTFmZTFlNDQ3YzQ3NjBlZWI1ZjJiYTIyMzJiYzQ3MTI3OCZjdD1n/vgou4kRMCh0YB0bK6c/giphy.gif" align="right" width="500">
 [React - State-Hook](https://snazzy-sherbet-4cddea.netlify.app/) <h3>[Repo](https://snazzy-sherbet-4cddea.netlify.app/)</h3> | React - State-Hook |<img src="https://media.giphy.com/media/4K3nVCNakT4xdZdbi9/giphy.gif" align="right" width="500">
 [HTML-CSS-JavaScript](https://cakir010.github.io/Piano-Project/) <h3>[Repo](https://cakir010.github.io/Piano-Project/)</h3> | JS - Array İteration |<img src="https://media.giphy.com/media/LosYNd6N5CST7doZom/giphy.gif" align="right" width="500">
 [HTML-CSS-JavaScript](https://cakir010.github.io/Weather-App-Project/) <h3>[Repo](https://cakir010.github.io/Weather-App-Project/)</h3> | JS - DOM |<img src="https://media.giphy.com/media/wULNlrSgUgMWXR72YB/giphy.gif" align="right" width="500">
 [HTML-CSS-JavaScript](https://cakir010.github.io/Todo-List-Project/) <h3>[Repo](https://cakir010.github.io/Todo-List-Project/)</h3> | JS - Array İteration |<img src="https://media.giphy.com/media/DccZ4GEmpqkTDKzrM1/giphy.gif" align="right" width="500">
-[React - Tailwind](https://classy-maamoul-be6003.netlify.app/) <h3>[Repo](https://classy-maamoul-be6003.netlify.app/)</h3> | React - Tailwind - FireBase - DarkTheme - Router - Context - Pagination |<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzM3OWIwZTFmZTFlNDQ3YzQ3NjBlZWI1ZjJiYTIyMzJiYzQ3MTI3OCZjdD1n/vgou4kRMCh0YB0bK6c/giphy.gif" align="right" width="500">
+
 [HTML-CSS-JavaScript](https://cakir010.github.io/Random-generator/) <h3>[Repo](https://cakir010.github.io/Random-generator/)</h3> | JS - Array İteration |<img src="https://media.giphy.com/media/bPj8fVRfv8ZyKLikGn/giphy.gif" align="right" width="500">
 [HTML-CSS-JavaScript](https://cakir010.github.io/Random-generator/) <h3>[Repo](https://cakir010.github.io/Random-generator/)</h3> | JS - Array İteration |<img src="https://media.giphy.com/media/bPj8fVRfv8ZyKLikGn/giphy.gif" align="center" width="200">
 
